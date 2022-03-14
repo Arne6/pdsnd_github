@@ -7,7 +7,7 @@ Monday, March 14 2022
 Bikeshare Github Project
 
 ### Description
-Publishing my bikeshare project on Github
+Publishing my bikeshare project on Github for my udacity project
 
 ### Files used
 bikeshare.py
